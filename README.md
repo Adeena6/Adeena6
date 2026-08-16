@@ -1,145 +1,71 @@
-Computer Science Graduate | Software Developer | AI Enthusiast
+# 💫 About Me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/adeena-shaikh-053b9b324">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
+👩‍💻 **Computer Science Graduate | Software Developer | AI Enthusiast**<br><br>
 
-👩‍💻 About Me
+I'm a Computer Science graduate passionate about software development, web technologies, mobile applications, and AI-driven solutions. I enjoy building practical, user-focused applications and continuously improving my technical skills.<br><br>
 
-I'm a Computer Science graduate with a strong interest in software development, web technologies, mobile application development, and AI-driven solutions.
+💻 **Tech Stack:** Java, Python, C++, SQL, JavaScript, React.js, React Native, Flutter, Firebase, MySQL, Git & GitHub.<br><br>
 
-I enjoy building practical, user-focused applications and working with modern technologies to solve real-world problems. My academic and project experience has helped me develop skills across frontend development, databases, APIs, and AI-based applications.
+🚀 **Currently:** Looking for Graduate / Entry-Level opportunities where I can apply my skills, contribute to real-world projects, and grow as a software professional.<br>
 
-🚀 Currently open to Graduate / Entry-Level opportunities in Software Development, Web Development, and related technology roles.
+## 🌐 Socials:
 
-🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeena-shaikh-053b9b324)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Adeena6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeenashaikh06@gmail.com)
 
-Programming Languages
+# 💻 Tech Stack:
 
-Java
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230066B3.svg?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=flat&logo=woocommerce&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%23635BFF.svg?style=flat&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat&logo=cloudinary&logoColor=white)
 
-Python
+# 📊 GitHub Stats:
 
-C++
+![](https://github-readme-stats.vercel.app/api?username=Adeena6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-SQL
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adeena6&theme=dark&hide_border=false)
 
-Web Development
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeena6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-HTML
+# 🚀 Featured Projects:
 
-CSS
+- 🔹 **InsightIQ** — AI-Based Business Analyzer with Dashboard Analytics
+- 🔹 **Pure Root** — E-Commerce Application
+- 🔹 **Disease Prediction System**
+- 🔹 **Document Summarizer & Translator**
+- 🔹 **Hospital Management System**
+- 🔹 **Chatbot**
 
-JavaScript
+# 🎯 Current Focus:
 
-React.js
+💻 Software Development  
+⚛️ React.js & Web Development  
+🤖 AI & Machine Learning  
+📱 React Native & Flutter  
+🚀 Graduate / Entry-Level Software Development Opportunities
 
-WordPress
+# 📚 Education:
 
-WooCommerce
-
-Mobile Development
-
-React Native
-
-Flutter
-
-Databases & Backend
-
-MySQL
-
-Microsoft SQL Server
-
-Firebase
-
-Cloud Firestore
-
-XAMPP
-
-Supabase
-
-APIs & Tools
-
-Stripe API
-
-Cloudinary
-
-Git & GitHub
-
-VS Code
-
-Eclipse
-
-NetBeans
-
-🚀 Featured Projects
-
-🔹 InsightIQ — AI-Based Business Analyzer
-
-An AI-powered business analysis platform designed to help small businesses understand and monitor their operations through unified dashboard analytics.
-
-Tech: React.js, Firebase, Stripe API
-
-🔹 Pure Root — E-Commerce Platform
-
-An e-commerce application focused on providing a user-friendly online shopping experience.
-
-🔹 Disease Prediction System
-
-A machine-learning-based application designed to assist with disease prediction using user-provided data.
-
-🔹 Document Summarizer & Translator
-
-A Streamlit-based application for summarizing and translating documents using AI/NLP techniques.
-
-🔹 Hospital Management System
-
-A software solution designed to manage hospital-related information and streamline common administrative operations.
-
-🔹 Chatbot
-
-An interactive chatbot project focused on automated user interaction and assistance.
-
-🎯 Current Focus
-
-Building real-world software projects
-
-Improving React.js and full-stack development skills
-
-Exploring AI and machine learning applications
-
-Strengthening problem-solving and software engineering practices
-
-Contributing to collaborative development projects
-
-📚 Education
-
-BS Computer Science
+🎓 **BS Computer Science**  
 Sukkur IBA University, Mirpurkhas Campus
 
-🤝 Open To
+---
 
-Graduate / Entry-Level Software Developer roles
-
-Web Development opportunities
-
-React.js / Frontend Development roles
-
-Software Engineering opportunities
-
-AI-related projects and internships
-
-📫 Connect With Me
-
-LinkedIn: https://linkedin.com/in/adeena-shaikh-053b9b324
-
-GitHub: https://github.com/Adeena6
-
-Email: adeenashaikh06@gmail.com
-
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+⭐ **Thanks for visiting my profile!**
